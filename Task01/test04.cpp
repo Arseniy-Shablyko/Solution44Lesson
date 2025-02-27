@@ -24,5 +24,7 @@ int main() {
 
 	cout << endl;
 
+	delete[] pointer;
+
 	return 0;
 }
